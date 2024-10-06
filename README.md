@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 ---
 
 ### 📈 **GitHub Stats**
-![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahraove&show_icons=true&theme=dracula)
+![Zahra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahra-ove&show_icons=true&theme=dracula)
 
 ---
 
