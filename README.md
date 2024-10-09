@@ -45,5 +45,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zahra-ove
 
 ---
 
-🔭 **Currently Working On**: **API development** with Laravel, **JavaScript** frameworks, and advanced Docker practices.
+🔭 **Currently Working On**: **API development** with Laravel, **JavaScript** frameworks, and advanced Docker practices.\
 🌱 **Learning More About**: Scaling applications with microservices in **Laravel** + **Docker**.
