@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 ---
 
 ### 💬 **Let's Connect!**
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zahra-ove) or check out my [GitHub](https://github.com/zahraove) for more projects and contributions!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zahra-ove) or check out my [GitHub](https://github.com/zahra-ove) for more projects and contributions!
 
 ---
 
